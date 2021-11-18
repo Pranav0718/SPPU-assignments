@@ -23,5 +23,44 @@ def average(m):
              if((m[i]<low)and type (m[i])!=type("")):
              low=m[i]
              print("/n highest score is:",high)
+             print("/n lowest score is:";low)
+             
+             #function to calculate absent students
+             
+             def absents(m):
+             count=0
+             for i in m:
+             if type(i)==type(""):
+             count+=1
+             print("/n No of absent student:"count)
+             
+             #function to calculate frequency
+             
+             def Frequencya(m):
+             f[0]
+             for j in range(1,100):
+             if(type(m[i]!=type(""));
+                if(m[i]==j):
+                count=count+1
+                f.append(count)
+                print("/n The marks in the subject FDS are....")
+                print(m)
+                
+                
+                #obtaining marks of highest frequency
+                
+                for k in range(l,len(f)):
+                if(f[k]==high):
+                highest=k
+                print("/highest frequency marks are",highest)
+                
+                #code
+                marks=["NA",49,42,38,42,43,"AB",48,50,"AB",34]
+                print("the marks in the subject'FDS'are")
+                print(marks)
+                average(marks)
+                highestandlowestscore(marks)
+                absent(marks)
+                frequency(marks)
              
              
