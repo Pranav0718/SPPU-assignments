@@ -1,4 +1,4 @@
-#function to calculate average
+#function to calculate average.
 
 def average(m):
   sum=0
