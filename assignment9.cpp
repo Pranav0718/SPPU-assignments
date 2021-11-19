@@ -1,17 +1,4 @@
-/*
-Write c++ program for palindrome with functions:-
-    a) to check wheather given string is palindrome or not that
-    uses a atack to determine wheather a string is a palindorme
-    b) to remove spaces and punctuation in string, convert all
-    the characters to lowercase, and then call above palinrome
-    checking functions to checkfor a palindrome
-    c)to print string in reverse order using stack
-*/
 
-#include <iostream>
-#include<stdio.h>
-#include <stdlib.h>
-#include <string.h>
 using namespace std;
 
 
