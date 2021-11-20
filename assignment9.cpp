@@ -79,7 +79,7 @@ void str::readstring()
     gets(inputstr);
     cout<<"\nYou entered:->  "<<inputstr;
 }
-
+#
 void str::revstring()
 {
     int i;
